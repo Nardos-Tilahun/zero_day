@@ -1,1 +1,1 @@
-Zero day in Github
+ssh into your Ubuntu VM
